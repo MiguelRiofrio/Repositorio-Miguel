@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="BLL/BLL.csproj" Id="f4b0a315-1184-4b58-bbc8-fa7f7564ef95" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Models/Models.csproj" />
+  <Project Path="Utilidades/Utilidades.csproj" Id="952c03e5-4ebb-42f6-90f8-299a7cbc45c6" />
+</Solution>
